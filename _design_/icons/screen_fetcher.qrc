@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+  <qresource>
+    <file alias="quit.png">images/32x32/actions/system-log-out.png</file>
+    <file alias="about.png">images/32x32/apps/preferences-system-session.png</file>
+    <file alias="showlicense.png">images/32x32/apps/help-browser.png</file>
+    <file alias="takeSnapshot.png">images/32x32/actions/document-save-as.png</file>
+  </qresource>
+</RCC>

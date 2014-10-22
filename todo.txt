@@ -1,0 +1,23 @@
+MyFindWindow SubRoutine===>
+  enumwindows to iterate all windows, then for each (callback):
+    activate/restore window
+    get its title
+    compare to one we are looking for
+---------------------------
+  botões => 
+      [Clean] Snapshots folder, 
+      Generate [PDF] from snapshots
+      [Readme]
+      [Settings] => images prefixes, pdf filename
+      [List] snapshots taken
+---------------------------
+1) show thumb of snapshot taken + title of image
+---------------------------
+
+     Get the order of windows that are shown ===> 
+
+    HELP ===> activate the window you want to snapshot (web browser, etc) and then click click on ScreenFetcher to take the snapshot
+
+   Change the button About => Help and create a new button About
+
+  Add an icon to MainWindow on Qt studio

@@ -1,0 +1,14 @@
+-allow to set the name of the window to take the snapshot of...or by clicking on a window to fetch its name
+
+**-restore the screen fetcher program window after clicking it + config it to be always on top
+**-allow to set the number of the next screen
+
+-allow to set the prefix or structure of the snapshot filename
+-allow to set the destination folder of the snapshots
+-before saving a snapshot check if the file already exists. If yes, warn the user and confirm saving.
+ also use a flag to save after asking user if he wants to apply that action to all existing files.
+ Provide a way in the options to clear that flag.
+
+-Include a help file.
+-Start a project on my github account for this software.(start another for the gimp python-fu one as well)
+
